@@ -21,3 +21,5 @@ For those projects who wish a more robust method of describing physical artifact
 * ArchaeoCore: http://www.ifaresearch.org/archaeocore/
 * ADS: http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2
 * tDAR: https://docs.tdar.org//display/TDAR/Data+Dictionary
+
+For more detailed documentation on each level of the metadata scheme (including examples), refer to this repository's wiki
