@@ -1,3 +1,5 @@
+## ARCSCore
+
 ARCSCore is a metadata standard developed as part of the Archaeological Resource Cataloging System (ARCS: http://arcs.matrix.msu.edu/) project.  Funded by the National Endowment for the Humanities and developed at Michigan State University’s MATRIX: The Center for Digital Humanities and Social Sciences, ARCS is an open source, web-based platform for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation, such as:
 
 * field journals 
