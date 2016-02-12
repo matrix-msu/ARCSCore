@@ -1,1 +1,15 @@
-Resource Associator,Resource Identifier,Format,Type,Page Identifier,Scan Number,Image Upload,Scan Specifications ,Scan Equipment ,Scan Date,Scan Creator,Scan Creator Status,Rights"KORA identifier for the Resource record that this Pages record is part of.ÊThis Pages record contains a digital file and technical metadata for 1 scanned page of the referenced Resource.","Unique identifier given to the original archival resource that has been scanned. This is the same as RESOURCE.Resource Identifier.For Isthmia: resource dependent code that uniquely identifies a an artifact or archival document",Digital or electronic format of the access or distribution file of the resource.,Broad term describing the nature or genre of digital file,Unique numeric or alphanumeric identification; Alpha/numeric character string of file name including file extension.,Number indicating the scan sequence for a resource,Upload jpeg file of scanned Archival Object.,"Description of the dimensions, resolution, type of digitization and any other information pertinent to the creation of the electronic file.",Name or other unique identifier of the device used to create an electronic file.,"Production date of the electronic file, expressed in yyyy/mm/dd format",Name or other unique identification of a known person responsible for the creation of the electronic file.,Information concerning whether the identification of a known person may appear in a publicly accessible format.,Information about rights management; may include copyright and other intellectual property statements required for use regarding the resource and/or its associated electronic file.
+NAME,Description
+,
+Resource Associator,KORA identifier for the Resource record that this Pages record is part of.ÃŠ This Pages record contains a digital file and technical metadata for 1 scanned page of the referenced Resource.
+Resource Identifier,This Pages record contains a digital file and technical metadata for 1 scanned page of the referenced Resource.
+Format,Digital or electronic format of the access or distribution file of the resource.
+Type,Broad term describing the nature or genre of digital file
+Page Identifier,Unique numeric or alphanumeric identification; Alpha/numeric character string of file name including file extension.
+Scan Number,Number indicating the scan sequence for a resource
+Image Upload,Upload jpeg file of scanned Archival Object.
+Scan Specifications ,"Description of the dimensions, resolution, type of digitization and any other information pertinent to the creation of the electronic file."
+Scan Equipment ,Name or other unique identifier of the device used to create an electronic file.
+Scan Date,"Production date of the electronic file, expressed in yyyy/mm/dd format"
+Scan Creator,Name or other unique identification of a known person responsible for the creation of the electronic file.
+Scan Creator Status,Information concerning whether the identification of a known person may appear in a publicly accessible format.
+Rights,Information about rights management; may include copyright and other intellectual property statements required for use regarding the resource and/or its associated electronic file.
