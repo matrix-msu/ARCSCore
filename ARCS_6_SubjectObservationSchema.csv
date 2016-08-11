@@ -10,14 +10,15 @@ Artifact - Structure Technique ,Manner of production of artifact or structure
 Artifact - Structure Period ,"Named, defined portion of time whose characteristics are represented in the artifact or structure."
 Artifact - Structure Terminus Ante Quem ,Date(s) before which an artifact or structure could not have been produced
 Artifact - Structure Terminus Post Quem ,Date(s) after which an artifact or structure could not have been produced
+Orphan, Indicates that the Subject of Observation record is not associated or linked to the appropriate Resource record. 
 Artifact - Structure Title ,"Titles, identifying phrases, or names given to an artifact or structure."
 Artifact - Structure Current Location ,The geographic location of the repository that is currently responsible for the artifact or structure
 Artifact - Structure Repository ,The name of the repository that is currently responsible for the artifact or structure.
 Artifact - Structure Repository Accession Number ,Any unique identifiers assigned to an artifact or structure by the current or last known repository
 Artifact - Structure Creator ,Name or other unique identification of a known creator of the artifact or structure.
 Artifact - Structure Creator Role ,Part played by artifact or structure creator.
-Artifact - Structure Dimensions ,"Measured size of the artifact or structure.For Isthmia: Measurements for walls, coins, pottery, and other artifacts and structures are in meters written as whole numbers or decimal fractions to the nearest millimeter."
-Artifact - Structure Geolocation ,"Coordinate pair(s) (latitude and longitude) that establishes a general location of project.Formatting: Latitude,Longitude for example:41.255678,13.435335"
+Artifact - Structure Dimensions ,"Measured size of the artifact or structure. For Isthmia: Measurements for walls, coins, pottery, and other artifacts and structures are in meters written as whole numbers or decimal fractions to the nearest millimeter."
+Artifact - Structure Geolocation ,"Coordinate pair(s) (latitude and longitude) that establishes a general location of project. Formatting: Latitude,Longitude for example: 41.255678,13.435335"
 Artifact - Structure Excavation Unit,"Pre-declared unit of excavated soil, known by a systematically assigned unique identifier."
 Artifact - Structure Location ,Project specific name for place where and an artifact / structure was first discovered
 Artifact - Structure Description ,General characteristics of an artifact or structure.
@@ -29,3 +30,6 @@ Artifact - Structure Subject ,General term(s) that identity the content or topic
 Artifact - Structure Origin ,Original production location of artifact or structure.
 Artifact - Structure Comparanda ,Published examples of other artifacts or structures that are similar in type or style.
 Artifact - Structure Archaeological Context ,Interpretive spatial boundaries within which the  was identified
+Artifact - Structure Shelving Location ,Shelf mark or other shelving designation that indicates the location where the physical artifact/structure is available (on a shelf or in cabinet, for example).
+Page Identifier ,Includes the unique identifier given to the scanned page exactly as recorded in the Page Identifier field in the Pages scheme. This will create a link between this Subject of Observation record and the appropriate Pages record it describes. This is redundant data for batch upload of records.
+ 
