@@ -10,3 +10,5 @@ Terminus Post Quem ,Date at which the excavation/survey unit ceases to
 Excavation Stratigraphy ,Concise narrative description of the successive levels of excavated material
 Survey Conditions ,"Concise narrative description of the condition of the surveyed area (e.g. terrain, ground cover)"
 Post Depositional Transformation,Concise narrative description of anthropogenic alterations to the excavation / survey unit.
+Orphan, Indicates that the Excavation - Survey record is not associated or linked to the appropriate Season record.
+Season Title, Includes the name given to the season exactly as it is recorded in the Title field in the Season scheme. This will create a link between this Excavation - Survey record and the appropriate Season record it belongs to.
