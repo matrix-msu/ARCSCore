@@ -13,3 +13,5 @@ Latest Date,"Latest date associated with project activity in this particular sea
 Terminus Ante Quem,Date at which the project location studied in this season begins to exhibit evidence of human activity.
 Terminus Post Quem ,Date at which the project location studied in this season ceases to exhibit evidence of human activity.
 Description,"Concise narrative outlining the season, its goals, duration, outputs, etc."
+Orphan,Indicates that the Season record is not associated or linked to the appropriate Project record.
+Project Name, Includes the name given to the project exactly as it is recorded in the Name field in the Project scheme. This will create a link between this Season record and the appropriate Project record it belongs to.
