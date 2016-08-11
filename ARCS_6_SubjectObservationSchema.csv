@@ -32,4 +32,3 @@ Artifact - Structure Comparanda ,Published examples of other artifacts or struct
 Artifact - Structure Archaeological Context ,Interpretive spatial boundaries within which the  was identified
 Artifact - Structure Shelving Location ,"Shelf mark or other shelving designation that indicates the location where the physical artifact/structure is available (on a shelf or in cabinet, for example)."
 Page Identifier ,Includes the unique identifier given to the scanned page exactly as recorded in the Page Identifier field in the Pages scheme. This will create a link between this Subject of Observation record and the appropriate Pages record it describes. This is redundant data for batch upload of records.
- 
