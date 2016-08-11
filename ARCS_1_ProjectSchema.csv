@@ -6,7 +6,7 @@ Region,Geographic area where the project is located (modern)
 Modern Name,The modern toponym of the geographic location of the project
 Location-Identifier ,"Systematically assigned alphanumeric code identifying project location, if applicable"
 Location-Identifier Scheme,"Scheme used to generate identification code in Location-Identifier field, if applicable"
-Geolocation,"Coordinate pair(s) (latitude and longitude) that establishes a general location of project. Formatting: Latitude,Longitude for example: 41.255678,13.435335"
+Geolocation,"Coordinate pair(s) (latitude and longitude) that establishes a general location of project. Formatting: Latitude, Longitude for example: 41.255678,13.435335"
 Elevation,"Highest and lowest recorded altitudes of the project location, expressed as a range in meters according to the WGS 84 system."
 Earliest Date,"Earliest date associated with project activity, expressed in yyyy/mm/dd format"
 Latest Date,"Latest date associated with project activity, expressed in yyyy/mm/dd format"
