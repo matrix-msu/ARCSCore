@@ -13,3 +13,4 @@ Scan Date,"Production date of the electronic file, expressed in yyyy/mm/dd forma
 Scan Creator,Name or other unique identification of a known person responsible for the creation of the electronic file.
 Scan Creator Status,Information concerning whether the identification of a known person may appear in a publicly accessible format.
 Rights,Information about rights management; may include copyright and other intellectual property statements required for use regarding the resource and/or its associated electronic file.
+Orphan, Used during batch upload of image files to indicate that the Pages record is not associated or linked to the appropriate Resource record.
