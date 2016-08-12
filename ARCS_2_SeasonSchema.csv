@@ -6,8 +6,8 @@ Type,"Particular type of season (e.g. session, excavation, study)"
 Director,Person(s) who bear responsibility for the execution of the season
 Registrar,Person(s) in an official position responsible for accurately recording season data
 Sponsor,Entity/entities supporting the season
-Contributor,Person(s) who participated in the project during this particular season
-Contributor Role,Part or roles played by person identified in Contributor field.
+Contributor,Person(s) who participated in the project during this particular season. (Can be repeated for multiple contributors.)
+Contributor Role,Part or roles played by person identified in Contributor field. (Can be repeated for multiple contributor roles.)
 Earliest Date,"Earliest date associated with project activity in this particular season, expressed in yyyy/mm/dd format"
 Latest Date,"Latest date associated with project activity in this particular season, expressed in yyyy/mm/dd format"
 Terminus Ante Quem,Date at which the project location studied in this season begins to exhibit evidence of human activity.
