@@ -1,21 +1,21 @@
 NAME,DESCRIPTION
-Name [text] | Label: Name,"Titles, identifying phrases, or names given to an archaeological space."
-Country [list] | Label: Country,"A type of ""nationality"" field, though not in adjectival form; country refers to the modern name of the nation state in which the project is located". Define local controlled vocabulary for each project.
-Region [list] | Label: Geographic Region,Geographic area where the project is located (modern). Define local controlled vocabulary for each project.
-Modern Name [list] | Label: Modern Placename,The modern toponym of the geographic location of the project. Define local controlled vocabulary for each project.
-Location-Identifier [text] | Label: Location,"Systematically assigned alphanumeric code identifying project location, if applicable"
-Location-Identifier Scheme [text] | Label: Location Source,"Scheme used to generate identification code Location-Identifier, if applicable"
-Geolocation [multi-text] | Label: Coordinates,"Coordinate pair(s) (latitude and longitude) that establishes a general location of project. Formatting: Latitude,Longitude for example: 41.255678,13.435335". 
-Elevation [text] | Label: Elevation,"Highest and lowest recorded altitudes of the project location, expressed as a range in meters according to the WGS 84 system."
-Earliest Date [date] | Label: Earliest Research Activity,"Earliest date associated with project activity, expressed in yyyy/mm/dd format"
-Latest Date [date] | Label: Latest Research Activity,"Latest date associated with project activity, expressed in yyyy/mm/dd format"
-Records Archive [multi-list] | Label: Archive/Repository,Location(s) of project documentation and records. Uniform name of the physical repository with full address.
-Persistent Name [text] | Label: Common Name,Name by which the location of the project is traditionally known.
-Complex Title [text] | Label: Associated Institution(s),"The name of the complex of which the project is a part, if applicable.
-Terminus Ante Quem [data] | Label: Earliest Cultural Activity,Date at which the project location begins to exhibit evidence of human activity. 
-Terminus Post Quem [date] | Label: Latest Cultural Activity,Date at which the project location ceases to exhibit evidence of human activity.
-Period [multi-list] | Label: Periods of Cultural Activity,"Term that identifies the named, defined period(s) whose characteristics are represented in the project location." Define local controlled vocabulary for each project. 
-Archaeological Culture [multi-list] | Label: Archaeological Culture,Recognizable and recurring assemblage of artifacts from a specific time and place. Thought to constitute the material remains of a particular past human society or group. Define local controlled vocabulary for each project.
-Description [text] | Label: Full Description,Concise narrative outlining the project, its goals, duration, etc.
-Brief Description [text] | Label: None - not displayed,2 sentence narrative describing the project. Will appear on the home page of the public site.
-Permitting Heritage Body [multi-list] | Label: Permitting Heritage Body,Name of the heritage body granting permission for project
+"Name [text] | Label: Name","Titles, identifying phrases, or names given to an archaeological space."
+"Country [list] | Label: Country","A type of ""nationality"" field, though not in adjectival form; country refers to the modern name of the nation state in which the project is located. Define local controlled vocabulary for each project."
+"Region [list] | Label: Geographic Region","Geographic area where the project is located (modern). Define local controlled vocabulary for each project."
+"Modern Name [list] | Label: Modern Placename","The modern toponym of the geographic location of the project. Define local controlled vocabulary for each project."
+"Location-Identifier [text] | Label: Location","Systematically assigned alphanumeric code identifying project location, if applicable"
+"Location-Identifier Scheme [text] | Label: Location Source","Scheme used to generate identification code Location-Identifier, if applicable"
+"Geolocation [multi-text] | Label: Coordinates","Coordinate pair(s) (latitude and longitude) that establishes a general location of project. Formatting: Latitude,Longitude for example: 41.255678,13.435335". 
+"Elevation [text] | Label: Elevation","Highest and lowest recorded altitudes of the project location, expressed as a range in meters according to the WGS 84 system."
+"Earliest Date [date] | Label: Earliest Research Activity","Earliest date associated with project activity, expressed in yyyy/mm/dd format"
+"Latest Date [date] | Label: Latest Research Activity","Latest date associated with project activity, expressed in yyyy/mm/dd format"
+"Records Archive [multi-list] | Label: Archive/Repository","Location(s) of project documentation and records. Uniform name of the physical repository with full address."
+"Persistent Name [text] | Label: Common Name","Name by which the location of the project is traditionally known."
+"Complex Title [text] | Label: Associated Institution(s)","The name of the complex of which the project is a part, if applicable."
+"Terminus Ante Quem [data] | Label: Earliest Cultural Activity","Date at which the project location begins to exhibit evidence of human activity."
+"Terminus Post Quem [date] | Label: Latest Cultural Activity","Date at which the project location ceases to exhibit evidence of human activity."
+"Period [multi-list] | Label: Periods of Cultural Activity","Term that identifies the named, defined period(s) whose characteristics are represented in the project location. Define local controlled vocabulary for each project."
+"Archaeological Culture [multi-list] | Label: Archaeological Culture","Recognizable and recurring assemblage of artifacts from a specific time and place. Thought to constitute the material remains of a particular past human society or group. Define local controlled vocabulary for each project."
+"Description [text] | Label: Full Description","Concise narrative outlining the project, its goals, duration, etc."
+"Brief Description [text] | Label: None - not displayed","2 sentence narrative describing the project. Will appear on the home page of the public site."
+"Permitting Heritage Body [multi-list] | Label: Permitting Heritage Body","Name of the heritage body granting permission for project"
