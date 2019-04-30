@@ -1,5 +1,5 @@
 NAME,LABEL,DESCRIPTION
-"Name [text]" , "Name","Titles, identifying phrases, or names given to an archaeological space."
+"Name [text]","Name","Titles, identifying phrases, or names given to an archaeological space."
 "Country [list] | Label: Country","A type of ""nationality"" field, though not in adjectival form; country refers to the modern name of the nation state in which the project is located. Define local controlled vocabulary for each project."
 "Region [list] | Label: Geographic Region","Geographic area where the project is located (modern). Define local controlled vocabulary for each project."
 "Modern Name [list] | Label: Modern Placename","The modern toponym of the geographic location of the project. Define local controlled vocabulary for each project."
