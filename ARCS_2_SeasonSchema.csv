@@ -1,16 +1,17 @@
 NAME,LABEL,DESCRIPTION
 "Name [text]","Name","Titles, identifying phrases, or names given to an archaeological space."
-"Country [list]","Country","A type of ""nationality"" field, though not in adjectival form; country refers to the modern name of the nation state in which the project is located. Define local controlled vocabulary for each project."
 "Project Associator [associator]","None","KORA identifier for the Project record that describes the overarching archaeological enterprise when this field research season or campaign took place."
 "Title [text]","Title","Title given to a particular physical configuration of the named project in an officially-defined short span of time"
-Type,"Particular type of season (e.g. session, excavation, study)"
-Director,Person(s) who bear responsibility for the execution of the season
-Registrar,Person(s) in an official position responsible for accurately recording season data
-Sponsor,Entity/entities supporting the season
-Contributor,Person(s) who participated in the project during this particular season
-Contributor Role,Part or roles played by person identified in Contributor field.
-Earliest Date,"Earliest date associated with project activity in this particular season, expressed in yyyy/mm/dd format"
-Latest Date,"Latest date associated with project activity in this particular season, expressed in yyyy/mm/dd format"
-Terminus Ante Quem,Date at which the project location studied in this season begins to exhibit evidence of human activity.
-Terminus Post Quem ,Date at which the project location studied in this season ceases to exhibit evidence of human activity.
-Description,"Concise narrative outlining the season, its goals, duration, outputs, etc."
+"Type [multi-list]","Research Activity","Particular type of season (e.g. session, excavation, study). This fixed ARCS controlled vocabulary cannot be changed."
+"Director [multi-list]","Director(s)","Person(s) who bear responsibility for the execution of the season. Define local controlled vocabulary for each project."
+"Registrar [multi-list]","Registrar(s)","Person(s) in an official position responsible for accurately recording season data. Define local controlled vocabulary for each project."
+"Sponsor [multi-list]","Sponsor(s)","Entity/entities supporting the season. Define local controlled vocabulary for each project."
+"Contributor [list]","Contributor(s)","Person who participated in the project during this particular season. Define local controlled vocabulary for each project. List only 1 name in this field. Use Contributor 2, Contributor 3… for other people who contributed to the Season. Identify the role(s) this contributor played during this season in the Contributor Role field."
+"Contributor Role [multi-list]","Contributor Role(s)","Part or roles played by person identified in Contributor field. Define local controlled vocabulary for each project."
+"Earliest Date [date]","Beginning of Season","Earliest date associated with project activity in this particular season, expressed in yyyy/mm/dd format"
+"Latest Date [date]","End of Season","Latest date associated with project activity in this particular season, expressed in yyyy/mm/dd format"
+"Terminus Ante Quem [date]","Earliest Cultural Activity","Date at which the project location studied in this season begins to exhibit evidence of human activity.
+"Terminus Post Quem [date]","Latest Cultural Activity","Date at which the project location studied in this season ceases to exhibit evidence of human activity."
+"Description [text]","Description of Season Activity","Concise narrative outlining the season, its goals, duration, outputs, etc."
+"Orphan [list]","","Indicates that the Season record is not associated or linked to the appropriate Project record. This fixed ARCS controlled vocabulary cannot be changed."
+"Project Name","","Includes the name given to the project exactly as it is recorded in the Name field in the Project scheme. This will create a link between this Season record and the appropriate Project record it belongs to. This is redundant data for batch upload of records."
