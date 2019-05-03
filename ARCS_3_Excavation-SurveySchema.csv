@@ -1,5 +1,4 @@
 NAME,LABEL,DESCRIPTION
-"Name [text]","Name","Titles, identifying phrases, or names given to an archaeological space."
 "Season Associator [associator]","Season(s) when Study took place","KORA identifier for the Season record that describes the period of time (season/campaign) during which this Excavation - Survey took place."
 "Name [text]","Unit of Study","Spatial section composed of material items and features, within codes developed for the project. Use a consistent format for representing the Unit Name, Unit Number, Sub-unit Number."
 "Type [list]","Type of Study","Type of excavation or survey (e.g. open area, test trench, intensive). This fixed ARCS controlled vocabulary cannot be changed."
