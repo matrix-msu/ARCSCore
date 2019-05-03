@@ -1,12 +1,15 @@
-NAME,DESCRIPTION
-Season Associator,KORA identifier for the Season record that describes the period of time (season/campaign) during which this Excavation - Survey took place.
-Name,"Spatial section composed of material items and features, within codes developed for the project"
-Type,"Type of excavation or survey (e.g. open area, test trench, intensive)"
-Supervisor,Person or persons who directly supervised the excavation or survey of a spatial section
-Earliest Date,"Earliest date associated with project activity for this particular excavation/survey, expressed in yyyy/mm/dd format"
-Latest Date,"Latest date associated with project activity for this particular excavation/survey, expressed in yyyy/mm/dd format"
-Terminus Ante Quem ,Date at which the excavation/survey unit begins to exhibit evidence of human activity.
-Terminus Post Quem ,Date at which the excavation/survey unit ceases to 
-Excavation Stratigraphy ,Concise narrative description of the successive levels of excavated material
-Survey Conditions ,"Concise narrative description of the condition of the surveyed area (e.g. terrain, ground cover)"
-Post Depositional Transformation,Concise narrative description of anthropogenic alterations to the excavation / survey unit.
+NAME,LABEL,DESCRIPTION
+"Name [text]","Name","Titles, identifying phrases, or names given to an archaeological space."
+"Season Associator [associator]","Season(s) when Study took place","KORA identifier for the Season record that describes the period of time (season/campaign) during which this Excavation - Survey took place."
+"Name [text]","Unit of Study","Spatial section composed of material items and features, within codes developed for the project. Use a consistent format for representing the Unit Name, Unit Number, Sub-unit Number."
+"Type [list]","Type of Study","Type of excavation or survey (e.g. open area, test trench, intensive). This fixed ARCS controlled vocabulary cannot be changed."
+"Supervisor [multi-list]","Supervisor(s)","Person or persons who directly supervised the excavation or survey of a spatial section. Define local controlled vocabulary for each project."
+"Earliest Date [date]","Beginning of Study","Earliest date associated with project activity for this particular excavation/survey, expressed in yyyy/mm/dd format"
+"Latest Date [date]","End of Study","Latest date associated with project activity for this particular excavation/survey, expressed in yyyy/mm/dd format"
+"Terminus Ante Quem [date]","Earliest Cultural Activity for Study Unit","Date at which the excavation/survey unit begins to exhibit evidence of human activity."
+"Terminus Post Quem [date]","Latest Cultural Activity for Study Unit","Date at which the excavation/survey unit ceases to exhibit evidence of human activity."
+"Excavation Stratigraphy [text]","Description of Stratigraphy","Concise narrative description of the successive levels of excavated material"
+"Survey Conditions [text]","Description of Survey","Concise narrative description of the condition of the surveyed area (e.g. terrain, ground cover)"
+"Post Depositional Transformation [text]","Post Depositional Activity","Concise narrative description of anthropogenic alterations to the excavation / survey unit."
+"Orphan [list]","","Indicates that the Excavation - Survey record is not associated or linked to the appropriate Season record. This fixed ARCS controlled vocabulary cannot be changed."
+"Season Title [text]","",Includes the name given to the season exactly as it is recorded in the Title field in the Season scheme. This will create a link between this Excavation - Survey record and the appropriate Season record it belongs to. This is redundant data for batch upload of records."
