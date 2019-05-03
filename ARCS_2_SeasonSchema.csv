@@ -1,4 +1,5 @@
-NAME,DESCRIPTION
+NAME,LABEL,DESCRIPTION
+"Name [text]","Name","Titles, identifying phrases, or names given to an archaeological space."
 Project Associator,KORA identifier for the Project record that describes the overarching archaeological enterprise when this field research season or campaign took place.
 Title,Title given to a particular physical configuration of the named project in an officially-defined short span of time
 Type,"Particular type of season (e.g. session, excavation, study)"
