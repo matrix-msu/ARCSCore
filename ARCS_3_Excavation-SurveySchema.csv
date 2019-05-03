@@ -12,4 +12,4 @@ NAME,LABEL,DESCRIPTION
 "Survey Conditions [text]","Description of Survey","Concise narrative description of the condition of the surveyed area (e.g. terrain, ground cover)"
 "Post Depositional Transformation [text]","Post Depositional Activity","Concise narrative description of anthropogenic alterations to the excavation / survey unit."
 "Orphan [list]","","Indicates that the Excavation - Survey record is not associated or linked to the appropriate Season record. This fixed ARCS controlled vocabulary cannot be changed."
-"Season Title [text]","",Includes the name given to the season exactly as it is recorded in the Title field in the Season scheme. This will create a link between this Excavation - Survey record and the appropriate Season record it belongs to. This is redundant data for batch upload of records."
+"Season Title [text]","","Includes the name given to the season exactly as it is recorded in the Title field in the Season scheme. This will create a link between this Excavation - Survey record and the appropriate Season record it belongs to. This is redundant data for batch upload of records."
