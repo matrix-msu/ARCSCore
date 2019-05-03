@@ -10,7 +10,7 @@ NAME,LABEL,DESCRIPTION
 "Contributor Role [multi-list]","Contributor Role(s)","Part or roles played by person identified in Contributor field. Define local controlled vocabulary for each project."
 "Earliest Date [date]","Beginning of Season","Earliest date associated with project activity in this particular season, expressed in yyyy/mm/dd format"
 "Latest Date [date]","End of Season","Latest date associated with project activity in this particular season, expressed in yyyy/mm/dd format"
-"Terminus Ante Quem [date]","Earliest Cultural Activity","Date at which the project location studied in this season begins to exhibit evidence of human activity.
+"Terminus Ante Quem [date]","Earliest Cultural Activity","Date at which the project location studied in this season begins to exhibit evidence of human activity."
 "Terminus Post Quem [date]","Latest Cultural Activity","Date at which the project location studied in this season ceases to exhibit evidence of human activity."
 "Description [text]","Description of Season Activity","Concise narrative outlining the season, its goals, duration, outputs, etc."
 "Orphan [list]","","Indicates that the Season record is not associated or linked to the appropriate Project record. This fixed ARCS controlled vocabulary cannot be changed."
