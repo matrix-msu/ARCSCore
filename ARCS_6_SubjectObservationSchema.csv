@@ -22,7 +22,7 @@ NAME,LABEL,DESCRIPTION
 "Artifact - Structure Geolocation [multi-text]","Artifact / Structure Coordinates","Coordinate pair(s) (latitude and longitude) that establishes a general location of project. Formatting: Latitude,Longitude for example: 41.255678,13.435335"
 "Artifact - Structure Excavation Unit [multi-list]","Artifact / Structure Excavation Unit","Pre-declared unit of excavated soil, known by a systematically assigned unique identifier. Define local controlled vocabulary for each project."
 "Artifact - Structure Location [multi-list]","Project-specific Location","Project specific name for place where and an artifact / structure was first discovered. Define local controlled vocabulary for each project."
-"Artifact - Structure Description [text]","Artifact / Structure Description","General characteristics of an artifact or structure.
+"Artifact - Structure Description [text]","Artifact / Structure Description","General characteristics of an artifact or structure."
 "Artifact - Structure Condition [multi-list]","Artifact / Structure Condition","Description of current physical state of artifact or structure. Define local controlled vocabulary for each project."
 "Artifact - Structure Inscription [text]","Inscribed Text","Lettering marked on artifact, especially for documentation or commemoration"
 "Artifact - Structure Munsell Color Number [text]","Artifact / Structure Color(s)","Index number for artifact or structure color."
