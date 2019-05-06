@@ -1,15 +1,14 @@
-NAME,Description
-,
-Resource Associator,KORA identifier for the Resource record that this Pages record is part of.Ê This Pages record contains a digital file and technical metadata for 1 scanned page of the referenced Resource.
-Resource Identifier,This Pages record contains a digital file and technical metadata for 1 scanned page of the referenced Resource.
-Format,Digital or electronic format of the access or distribution file of the resource.
-Type,Broad term describing the nature or genre of digital file
-Page Identifier,Unique numeric or alphanumeric identification; Alpha/numeric character string of file name including file extension.
-Scan Number,Number indicating the scan sequence for a resource
-Image Upload,Upload jpeg file of scanned Archival Object.
-Scan Specifications ,"Description of the dimensions, resolution, type of digitization and any other information pertinent to the creation of the electronic file."
-Scan Equipment ,Name or other unique identifier of the device used to create an electronic file.
-Scan Date,"Production date of the electronic file, expressed in yyyy/mm/dd format"
-Scan Creator,Name or other unique identification of a known person responsible for the creation of the electronic file.
-Scan Creator Status,Information concerning whether the identification of a known person may appear in a publicly accessible format.
-Rights,Information about rights management; may include copyright and other intellectual property statements required for use regarding the resource and/or its associated electronic file.
+NAME,LABEL,DESCRIPTION
+"Resource Associator [associator]","","KORA identifier for the Resource record that this Pages record is part of."
+"Resource Identifier [text]","","Unique identifier given to the original archival resource that has been scanned. This is the same as RESOURCE.Resource Identifier. For Isthmia: resource dependent code that uniquely identifies an artifact or archival document"
+"Format [dcterms:format] [list]","","Digital or electronic format of the access or distribution file of the resource. This fixed ARCS controlled vocabulary cannot be changed. Internet Media Types [MIME]."
+"Type [dcterms:type] [list]","Type","Broad term describing the nature or genre of digital file. This fixed ARCS controlled vocabulary cannot be changed. DCMI Type Vocabulary (DCMITYPE)"
+"Page Identifier [dcterms:identifier] [text]","","Unique numeric or alphanumeric identification. Alpha/numeric character string of file name including file extension."
+"Scan Number [text]","","Number indicating the scan sequence for a resource. Beging sequence with 1, for the first scan of resource, followed by 2, 3, and 4… for subsequent scans. Scan Number is used to display image files associated to the original Archival Object RESOURCE in the correct order on the website. Scan Number does not record the actual page number of a book, for example."
+"Image Upload [file]","","Upload jpeg file of scanned archival document."
+"Scan Specifications [text]","","Description of the dimensions, resolution, type of digitization and any other information pertinent to the creation of the electronic file. Recommended data and format: Bit-depth (e.g., 8-bit, 16-bit, 24-bit, etc.); color mode (e.g., RGB, CMYK, or grayscale); resolution (pixels per inch.) For example: 24 bit RGB mode - 400 PPI or 8-bit grayscale mode - 400 PPI"
+"Scan Equipment [text]","","Name or other unique identifier of the device used to create an electronic file. Recommended data: Scanner or digital camera brand, name, and model number; software name and version"
+"Scan Date [dcterms:created] [date]","Date Resource Scanned","Production date of the electronic file, expressed in yyyy/mm/dd format"
+"Scan Creator [dcterms:creator] [text]","Creator of Scanned Resource","Name or other unique identification of a known person responsible for the creation of the electronic file. Name of the person who scanned archival resource."
+"Scan Creator Status [list]","","Information concerning whether the identification of a known person may appear in a publicly accessible format. This fixed ARCS controlled vocabulary cannot be changed. The purpose of this field it to "protect" information about volunteers including students who do not what name published."
+"Orphan [not DC] [list]","","Indicate that the Pages record is not associated or linked to the appropriate Resource record. This fixed ARCS controlled vocabulary cannot be changed."
