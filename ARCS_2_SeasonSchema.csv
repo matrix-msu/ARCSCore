@@ -13,4 +13,4 @@ NAME,LABEL,DESCRIPTION
 "Terminus Post Quem [date]","Latest Cultural Activity","Date at which the project location studied in this season ceases to exhibit evidence of human activity."
 "Description [text]","Description of Season Activity","Concise narrative outlining the season, its goals, duration, outputs, etc."
 "Orphan [list]","None - not displayed","Indicates that the Season record is not associated or linked to the appropriate Project record. This fixed ARCS controlled vocabulary cannot be changed."
-"Project Name","None - not displayed","Includes the name given to the project exactly as it is recorded in the Name field in the Project scheme. This will create a link between this Season record and the appropriate Project record it belongs to. This is redundant data for batch upload of records."
+"Project Name [text]","None - not displayed","Includes the name given to the project exactly as it is recorded in the Name field in the Project scheme. This will create a link between this Season record and the appropriate Project record it belongs to. This is redundant data for batch upload of records."
