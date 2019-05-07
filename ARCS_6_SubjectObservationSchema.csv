@@ -1,6 +1,6 @@
 NAME,LABEL,DESCRIPTION
 "Pages Associator [associator]","Page ID with Topic Info","KORA identifier for the specific page of the Resource that this Subject of Observation record describes."
-"Resource Identifier [text]","","Unique identifier given to the original archival resource that has been scanned. This is the same as RESOURCE.Resource Identifier. For Isthmia: resource dependent code that uniquely identifies an artifact or archival document."
+"Resource Identifier [text]","None – not displayed","Unique identifier given to the original archival resource that has been scanned. This is the same as RESOURCE.Resource Identifier. For Isthmia: resource dependent code that uniquely identifies an artifact or archival document."
 "Subject of Observation Associator [associator]","Other Records with Topic Info","KORA identifier for the Subject of Observations record(s) that describe the exact same artifact/structure."
 "Artifact - Structure Classification [dcterms:subject] [list]","Artifact / Structure Classification","Specific category of artifact or structure according to a stated system. Define local controlled vocabulary for each project."
 "Artifact - Structure Type [dcterms:subject] [multi-list]","Artifact / Structure Type","Physical characteristic of artifact or structure. Define local controlled vocabulary for each project."
@@ -11,7 +11,7 @@ NAME,LABEL,DESCRIPTION
 "Artifact - Structure Period [dcterms:temporal] [multi-list]","Artifact / Structure Period","Named, defined portion of time whose characteristics are represented in the artifact or structure. Define local controlled vocabulary for each project."
 "Artifact - Structure Terminus Ante Quem [date]","Earliest Possible Date of Artifact / Structure","Date(s) before which an artifact or structure could not have been produced"
 "Artifact - Structure Terminus Post Quem [date]","Latest Possible Date of Artifact / Structure","Date(s) after which an artifact or structure could not have been produced"
-"Orphan [list]","","Indicates that the Subject of Observation record is not associated or linked to the appropriate Resource record."
+"Orphan [list]","None – not displayed","Indicates that the Subject of Observation record is not associated or linked to the appropriate Resource record."
 "Artifact - Structure Title [text]"," Title of Artifact / Structure","Titles, identifying phrases, or names given to an artifact or structure."
 "Artifact - Structure Current Location [list]","Current Location of Artifact / Structure","The geographic location of the repository that is currently responsible for the artifact or structure"
 "Artifact - Structure Repository [list]","Storage Repository","The name of the repository that is currently responsible for the artifact or structure."
@@ -32,4 +32,4 @@ NAME,LABEL,DESCRIPTION
 "Artifact - Structure Comparanda [text]","Comparative examples","Published examples of other artifacts or structures that are similar in type or style."
 "Artifact - Structure Archaeological Context [text]","Archaeological Context","Three-dimensional position of find, and its relationship to other elements in the site's archaeological record."
 "Artifact - Structure Shelving Location [text]", "Location in repository","Shelf mark or other shelving designation that indicates the location where the physical artifact/structure is available (on a shelf or in cabinet, for example)."
-"Page Identifier [text]","","Includes the unique identifier given to the scanned page exactly as recorded in the Page Identifier field in the Pages scheme. This will create a link between this Subject of Observation record and the appropriate Pages record it describes. This is redundant data for batch upload of records."
+"Page Identifier [text]","None – not displayed","Includes the unique identifier given to the scanned page exactly as recorded in the Page Identifier field in the Pages scheme. This will create a link between this Subject of Observation record and the appropriate Pages record it describes. This is redundant data for batch upload of records."
