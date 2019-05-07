@@ -1,5 +1,5 @@
 NAME,LABEL,DESCRIPTION
-"Project Associator [associator]","","KORA identifier for the Project record that describes the overarching archaeological enterprise when this field research season or campaign took place."
+"Project Associator [associator]","None - not displayed","KORA identifier for the Project record that describes the overarching archaeological enterprise when this field research season or campaign took place."
 "Title [text]","Title","Title given to a particular physical configuration of the named project in an officially-defined short span of time"
 "Type [multi-list]","Research Activity","Particular type of season (e.g. session, excavation, study). This fixed ARCS controlled vocabulary cannot be changed."
 "Director [multi-list]","Director(s)","Person(s) who bear responsibility for the execution of the season. Define local controlled vocabulary for each project."
@@ -12,5 +12,5 @@ NAME,LABEL,DESCRIPTION
 "Terminus Ante Quem [date]","Earliest Cultural Activity","Date at which the project location studied in this season begins to exhibit evidence of human activity."
 "Terminus Post Quem [date]","Latest Cultural Activity","Date at which the project location studied in this season ceases to exhibit evidence of human activity."
 "Description [text]","Description of Season Activity","Concise narrative outlining the season, its goals, duration, outputs, etc."
-"Orphan [list]","","Indicates that the Season record is not associated or linked to the appropriate Project record. This fixed ARCS controlled vocabulary cannot be changed."
-"Project Name","","Includes the name given to the project exactly as it is recorded in the Name field in the Project scheme. This will create a link between this Season record and the appropriate Project record it belongs to. This is redundant data for batch upload of records."
+"Orphan [list]","None - not displayed","Indicates that the Season record is not associated or linked to the appropriate Project record. This fixed ARCS controlled vocabulary cannot be changed."
+"Project Name","None - not displayed","Includes the name given to the project exactly as it is recorded in the Name field in the Project scheme. This will create a link between this Season record and the appropriate Project record it belongs to. This is redundant data for batch upload of records."
